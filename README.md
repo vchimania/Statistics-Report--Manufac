@@ -1,3 +1,6 @@
+![Screenshot from 2023-08-24 16-52-42](https://github.com/vchimania/Statistics-Report--Manufac/assets/49272164/eaa43e7b-9af2-49f2-a18b-1c7ad1556588)
+![Screenshot from 2023-08-24 16-52-36](https://github.com/vchimania/Statistics-Report--Manufac/assets/49272164/81629641-cb63-4b22-abf8-23cd9f9d415d)
+![Screenshot from 2023-08-24 16-52-25](https://github.com/vchimania/Statistics-Report--Manufac/assets/49272164/be308064-4df7-43f4-a75c-090aaa2746cd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
